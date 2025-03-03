@@ -1,0 +1,5 @@
+1. There are two java programs you need to run.
+2. Open TextUI.java and run the program.
+3. It will shows two lines in terminal: three different tempreatures (Celsius,Fahrenheit, Kelvin) and two pressure measurements (Inches and Millibars) in textUI and keep updating the numbers.
+4. Open SwingUI.java and run the program.
+4. It will show three temperatures and two pressure measurements in one row and keep updating the numbers.
